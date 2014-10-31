@@ -6,7 +6,7 @@ namespace CheckReferenceClassLibrary
     {        
         private void Check()
         {
-            var dc = new DelegateClass();           
+            var dc = new DelegateClass();
         }       
     }
 }
